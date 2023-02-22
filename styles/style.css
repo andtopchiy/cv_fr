@@ -379,7 +379,7 @@ footer {
   .contact__block,
   .skill__block,
   .language__block {
-    font-size: 23px;
+    font-size: 16px;
   }
 }
 
@@ -426,11 +426,11 @@ footer {
   }
 
   .name__title {
-    font-size: 2em;
+    font-size: 1.25em;
   }
 
   .name__subtitle {
-    font-size: 1.5em;
+    font-size: 1.25em;
   }
 
   .aside__avatar {
@@ -440,7 +440,7 @@ footer {
   .contact__block,
   .skill__block,
   .language__block {
-    font-size: 25px;
+    font-size: 16px;
   }
 }
 
