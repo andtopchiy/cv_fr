@@ -1,2 +1,2 @@
 # cv_fr
-gh-page
+http://andtopchiy.github.io/cv_fr/
